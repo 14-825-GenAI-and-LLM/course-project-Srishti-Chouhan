@@ -40,7 +40,7 @@ OR
 conda create --name genai_llm_proj python=3.9 --file
 conda activate genai_llm_proj
 conda install --file requirements.txt
-
+```
 
 ## Variables to be updated/replaced:
 In [application.py](https://github.com/14-825-GenAI-and-LLM/course-project-Srishti-Chouhan/blob/main/application.py) file, update the following varibales-
