@@ -37,7 +37,7 @@ The detailed list of all the libraries that have been installed while installing
 OR
 
 ```bash
-conda create --name genai_llm_proj python=3.9 --file
+conda create --name genai_llm_proj python=3.9
 conda activate genai_llm_proj
 conda install --file requirements.txt
 ```
