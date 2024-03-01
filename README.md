@@ -2,25 +2,23 @@
 
 # Generative AI and Large Language Model Project
 
-## Team Members:
+## Team Members
 - Srishti Chouhan (schouhan)
 - Bhaavanaa Thumu (bthumu)
 
-## Topic: 
+## Topic 
 Use Case #2 - Provide up-to-date weather information (and forecasts)
 
 ## Video URL
 Video URL
 
----
+## Files
 
-## Files:
-
--**application.py**: Code file for the app
+- **application.py**: Code file for the app
 
 This file contains the code for Streamlit web application that utilizes the OpenWeatherMap API and Vertex AI models namely gemini-pro and text-bison(@001) to display current weather information and weather forecasts for a selected city, and uses LangChain to generate descriptive responses based on templates for weather-related prompts.
 
--**models_eval.ipynb**: Code for comparing the two models
+- **models_eval.ipynb**: Code for comparing the two models
 
 This notebook contains the code for evaluating the two language models (text-bison and gemini-pro) using gpt-4 through prompts, obtaining scores for their responses, and for generating a radar plot comparing their performance across various dimensions, providing a fine-grained assessment.
 
