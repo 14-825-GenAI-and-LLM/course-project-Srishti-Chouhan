@@ -36,8 +36,8 @@ The detailed list of all the libraries that have been installed while installing
 
 
 ## Variables to be updated/replaced:
-Var 1 : https://github.com/14-825-GenAI-and-LLM/course-project-Srishti-Chouhan/blob/d46e470f285093ff74aa49d5b76586a1e00c5a68/application.py#L11
-
+In [application.py](https://github.com/14-825-GenAI-and-LLM/course-project-Srishti-Chouhan/blob/main/application.py)
+1. [OPENWEATHERMAP_API_KEY](https://github.com/14-825-GenAI-and-LLM/course-project-Srishti-Chouhan/blob/f8eacf3f3641aaabe0810fc2dd027a464c6b1646/application.py#L11C1-L11C23)
 
 ## Steps to run the application
 - Create the environment as mentioned in the "Required libraries" section and activate the environment.
