@@ -37,7 +37,11 @@ The detailed list of all the libraries that have been installed while installing
 
 ## Variables to be updated/replaced:
 In [application.py](https://github.com/14-825-GenAI-and-LLM/course-project-Srishti-Chouhan/blob/main/application.py)
-1. [OPENWEATHERMAP_API_KEY](https://github.com/14-825-GenAI-and-LLM/course-project-Srishti-Chouhan/blob/f8eacf3f3641aaabe0810fc2dd027a464c6b1646/application.py#L11C1-L11C23)
+1. [ENTER_YOUR_OPENWEATHERMAP_API_KEY](https://github.com/14-825-GenAI-and-LLM/course-project-Srishti-Chouhan/blob/f8eacf3f3641aaabe0810fc2dd027a464c6b1646/application.py#L11C1-L11C23)
+2. [ENTER_LOCATION_OF_KEY_JSON_FILE](https://github.com/14-825-GenAI-and-LLM/course-project-Srishti-Chouhan/blob/f8eacf3f3641aaabe0810fc2dd027a464c6b1646/application.py#L12)
+3. [ENTER_PROJECT_ID](https://github.com/14-825-GenAI-and-LLM/course-project-Srishti-Chouhan/blob/f8eacf3f3641aaabe0810fc2dd027a464c6b1646/application.py#L13C15-L13C31)
+4. [ENTER_REGION](https://github.com/14-825-GenAI-and-LLM/course-project-Srishti-Chouhan/blob/f8eacf3f3641aaabe0810fc2dd027a464c6b1646/application.py#L14)
+5. [ENTER_BUCKET_URI](https://github.com/14-825-GenAI-and-LLM/course-project-Srishti-Chouhan/blob/f8eacf3f3641aaabe0810fc2dd027a464c6b1646/application.py#L15C16-L15C32)
 
 ## Steps to run the application
 - Create the environment as mentioned in the "Required libraries" section and activate the environment.
