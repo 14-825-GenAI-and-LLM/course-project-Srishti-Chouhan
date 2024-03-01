@@ -14,7 +14,7 @@ Video URL
 
 ## Files
 
-- **application.py**: Code file for the app
+- [a link](https://github.com/14-825-GenAI-and-LLM/course-project-Srishti-Chouhan/blob/main/application.py): Code file for the app
 
 This file contains the code for Streamlit web application that utilizes the OpenWeatherMap API and Vertex AI models namely gemini-pro and text-bison(@001) to display current weather information and weather forecasts for a selected city, and uses LangChain to generate descriptive responses based on templates for weather-related prompts.
 
