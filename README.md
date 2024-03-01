@@ -51,7 +51,7 @@ In [models_eval.ipynb](https://github.com/14-825-GenAI-and-LLM/course-project-Sr
 5. [ENTER_BUCKET_URI](https://github.com/14-825-GenAI-and-LLM/course-project-Srishti-Chouhan/blob/734e5582ba266c35f04b05a81045588418d4976b/models_eval.ipynb#L42)
 
 ## Steps to run the application
-- Create the environment as mentioned in the "Required libraries" section and activate the environment.
+- Create the environment as mentioned in the [Required libraries](https://github.com/14-825-GenAI-and-LLM/course-project-Srishti-Chouhan/blob/main/README.md#required-libraries) section and activate the environment.
 - Update the variables in the [application.py](https://github.com/14-825-GenAI-and-LLM/course-project-Srishti-Chouhan/blob/main/application.py) and [models_eval.ipynb](https://github.com/14-825-GenAI-and-LLM/course-project-Srishti-Chouhan/blob/main/models_eval.ipynb) files as mentioned in the "Variables to be updated/replaced" section.
 - Run the application.py file using the following command to use the application-
   ```bash
