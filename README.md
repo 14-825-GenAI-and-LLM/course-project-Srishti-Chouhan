@@ -52,7 +52,7 @@ In [models_eval.ipynb](https://github.com/14-825-GenAI-and-LLM/course-project-Sr
 
 ## Steps to run the application
 - Create the environment as mentioned in the [Required libraries](https://github.com/14-825-GenAI-and-LLM/course-project-Srishti-Chouhan/blob/main/README.md#required-libraries) section and activate the environment.
-- Update the variables in the [application.py](https://github.com/14-825-GenAI-and-LLM/course-project-Srishti-Chouhan/blob/main/application.py) and [models_eval.ipynb](https://github.com/14-825-GenAI-and-LLM/course-project-Srishti-Chouhan/blob/main/models_eval.ipynb) files as mentioned in the "Variables to be updated/replaced" section.
+- Update the variables in the [application.py](https://github.com/14-825-GenAI-and-LLM/course-project-Srishti-Chouhan/blob/main/application.py) and [models_eval.ipynb](https://github.com/14-825-GenAI-and-LLM/course-project-Srishti-Chouhan/blob/main/models_eval.ipynb) files as mentioned in the [Variables to be updated/replaced](https://github.com/14-825-GenAI-and-LLM/course-project-Srishti-Chouhan/blob/main/README.md#variables-to-be-updatedreplaced) section.
 - Run the application.py file using the following command to use the application-
   ```bash
   streamlit run application.py --client.showErrorDetails=false
