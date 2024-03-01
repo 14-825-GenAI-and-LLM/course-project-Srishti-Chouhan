@@ -57,6 +57,6 @@ While performing our task without incorporating weather API information, we noti
 
 We evaluated the models using various weather prompts, assessing them on twelve metrics: Robustness, Correctness, Efficiency, Factuality, Commonsense, Comprehension, Insightfulness, Completeness, Metacognition, Readability, Conciseness, and Harmlessness. This approach allowed us to gain insights into the models' performance across a spectrum of attributes while bypassing the influence of external weather data.
 
-
+![Screenshot](models_eval_plot.png)
 
 The plot of the evaluation highlights that, overall, Gemini-Pro outperforms Text-Bison. While Text-Bison performs well in conciseness and efficiency, Gemini-Pro demonstrates a better performance in Factuality, Correctness, Robustness, Metacognition, Completeness, Insightfulness, and Commonsense, and performs comparably to Text-Bison in Harmlessness and Comprehension. In summary, this evaluation suggests that Gemini-Pro is more robust and accurate across a range of metrics.
