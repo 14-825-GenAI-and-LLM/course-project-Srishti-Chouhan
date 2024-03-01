@@ -10,7 +10,7 @@
 Use Case #2 - Provide up-to-date weather information (and forecasts)
 
 ## Video URL
-Video URL
+[https://drive.google.com/file/d/1yOKbzuTJBiGGEi0GAfaIafzGKsGQtLo9/view?usp=drive_link](https://drive.google.com/file/d/1yOKbzuTJBiGGEi0GAfaIafzGKsGQtLo9/view?usp=drive_link)
 
 ## Files
 
