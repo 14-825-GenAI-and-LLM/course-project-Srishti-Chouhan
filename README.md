@@ -34,6 +34,13 @@ Create a conda environment with the following libraries-
 
 The detailed list of all the libraries that have been installed while installing these main libraries are present in the [requirements.txt](https://github.com/14-825-GenAI-and-LLM/course-project-Srishti-Chouhan/blob/main/requirements.txt) file.
 
+OR
+
+```bash
+conda create --name genai_llm_proj python=3.9 --file
+conda activate genai_llm_proj
+conda install --file requirements.txt
+
 
 ## Variables to be updated/replaced:
 In [application.py](https://github.com/14-825-GenAI-and-LLM/course-project-Srishti-Chouhan/blob/main/application.py) file, update the following varibales-
@@ -62,7 +69,7 @@ In [models_eval.ipynb](https://github.com/14-825-GenAI-and-LLM/course-project-Sr
 ## Evaluation
 We have used the Gemini-Pro and Text-Bison models from Vertex AI for the task of retrieving current weather and forecasts. To assess and compare their performance, we employed the GPT-4 model as an evaluator or ground truth model. 
 
-While performing our task without incorporating weather API information, we noticed a tendency for the language models (LLMs) to hallucinate and generate imagined weather conditions. But, we observed that the output format remained consistent both before and after the inclusion of weather information. Hence, we opted to evaluate the models without relying on weather API data, due our interest in assessing the output format rather than specific weather values.
+While performing our task without incorporating weather API information, we noticed a tendency for the language models (LLMs) to hallucinate and generate imagined weather conditions. But, we observed that the output format remained consistent both before and after the inclusion of weather information. Hence, we opted to evaluate the models without relying on weather API data, due to our interest in assessing the output format rather than specific weather values.
 
 We evaluated the models using various weather prompts, assessing them on twelve metrics: Robustness, Correctness, Efficiency, Factuality, Commonsense, Comprehension, Insightfulness, Completeness, Metacognition, Readability, Conciseness, and Harmlessness. This approach allowed us to gain insights into the models' performance across a spectrum of attributes while bypassing the influence of external weather data.
 
