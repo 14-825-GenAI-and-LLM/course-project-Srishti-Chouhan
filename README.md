@@ -43,7 +43,7 @@ In [application.py](https://github.com/14-825-GenAI-and-LLM/course-project-Srish
 4. [ENTER_REGION](https://github.com/14-825-GenAI-and-LLM/course-project-Srishti-Chouhan/blob/f8eacf3f3641aaabe0810fc2dd027a464c6b1646/application.py#L14)
 5. [ENTER_BUCKET_URI](https://github.com/14-825-GenAI-and-LLM/course-project-Srishti-Chouhan/blob/f8eacf3f3641aaabe0810fc2dd027a464c6b1646/application.py#L15C16-L15C32)
 
-In [models_eval.ipynb](https://github.com/14-825-GenAI-and-LLM/course-project-Srishti-Chouhan/blob/main/models_eval.ipynb) file, update the following variables-
+In [models_eval.ipynb](https://github.com/14-825-GenAI-and-LLM/course-project-Srishti-Chouhan/blob/main/models_eval.ipynb) file, update the following variables (located in 2nd and 3rd cells of the notebook)-
 1. [ENTER_LOCATION_OF_KEY_JSON_FILE](https://github.com/14-825-GenAI-and-LLM/course-project-Srishti-Chouhan/blob/e932d8fa0a642718a86a6ddcac21844103c4a249/models_eval.ipynb#L29)
 2. [ENTER_YOUR_OPENAI_KEY](https://github.com/14-825-GenAI-and-LLM/course-project-Srishti-Chouhan/blob/e932d8fa0a642718a86a6ddcac21844103c4a249/models_eval.ipynb#L30C41-L30C62)
 3. [ENTER_PROJECT_ID](https://github.com/14-825-GenAI-and-LLM/course-project-Srishti-Chouhan/blob/734e5582ba266c35f04b05a81045588418d4976b/models_eval.ipynb#L40)
