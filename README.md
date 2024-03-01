@@ -2,24 +2,26 @@
 
 # Generative AI and Large Language Model Project
 
-### Team Members:
+## Team Members:
 - Srishti Chouhan (schouhan)
 - Bhaavanaa Thumu (bthumu)
 
-### Topic: 
+## Topic: 
 Use Case #2 - Provide up-to-date weather information (and forecasts)
 
-### Video URL
+## Video URL
 Video URL
 
 ---
 
-### Files:
+## Files:
 
-**-application.py**: Code file for the app
+-**application.py**: Code file for the app
+
 This file contains the code for Streamlit web application that utilizes the OpenWeatherMap API and Vertex AI models namely gemini-pro and text-bison(@001) to display current weather information and weather forecasts for a selected city, and uses LangChain to generate descriptive responses based on templates for weather-related prompts.
 
-**-models_eval.ipynb**: Code for comparing the two models
+-**models_eval.ipynb**: Code for comparing the two models
+
 This notebook contains the code for evaluating the two language models (text-bison and gemini-pro) using gpt-4 through prompts, obtaining scores for their responses, and for generating a radar plot comparing their performance across various dimensions, providing a fine-grained assessment.
 
 
@@ -31,6 +33,7 @@ Create a conda environment with the following libraries-
 - google-cloud-aiplatform 1.43.0
 - langchain-google-vertexai 0.1.0
 - langchain 0.1.9
+
 The detailed list of all the libraries that have been installed while installing these main libraries are present in the requirements.txt file on our project GitHub.
 
 
@@ -42,7 +45,7 @@ The detailed list of all the libraries that have been installed while installing
 - Create the environment as mentioned in the "Required libraries" section and activate the environment.
 - Update the variables in the "application.py" and "models_eval.ipynb" files as mentioned in the "Variables to be updated/replaced" section.
 - Run the application.py file using the following command to use the application-
-  ``bash
+  ```bash
   streamlit run application.py --client.showErrorDetails=false
 - To evaluate the two models, run all the cells present in the models_eval.ipynb file in a sequential manner.
 
