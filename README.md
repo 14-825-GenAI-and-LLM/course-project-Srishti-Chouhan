@@ -14,11 +14,11 @@ Video URL
 
 ## Files
 
-- [a link](https://github.com/14-825-GenAI-and-LLM/course-project-Srishti-Chouhan/blob/main/application.py): Code file for the app
+- [application.py](https://github.com/14-825-GenAI-and-LLM/course-project-Srishti-Chouhan/blob/main/application.py): Code file for the app
 
 This file contains the code for Streamlit web application that utilizes the OpenWeatherMap API and Vertex AI models namely gemini-pro and text-bison(@001) to display current weather information and weather forecasts for a selected city, and uses LangChain to generate descriptive responses based on templates for weather-related prompts.
 
-- **models_eval.ipynb**: Code for comparing the two models
+- [models_eval.ipynb](https://github.com/14-825-GenAI-and-LLM/course-project-Srishti-Chouhan/blob/main/models_eval.ipynb): Code for comparing the two models
 
 This notebook contains the code for evaluating the two language models (text-bison and gemini-pro) using gpt-4 through prompts, obtaining scores for their responses, and for generating a radar plot comparing their performance across various dimensions, providing a fine-grained assessment.
 
@@ -41,11 +41,11 @@ The detailed list of all the libraries that have been installed while installing
 
 ## Steps to run the application
 - Create the environment as mentioned in the "Required libraries" section and activate the environment.
-- Update the variables in the "application.py" and "models_eval.ipynb" files as mentioned in the "Variables to be updated/replaced" section.
+- Update the variables in the [application.py](https://github.com/14-825-GenAI-and-LLM/course-project-Srishti-Chouhan/blob/main/application.py) and [models_eval.ipynb](https://github.com/14-825-GenAI-and-LLM/course-project-Srishti-Chouhan/blob/main/models_eval.ipynb) files as mentioned in the "Variables to be updated/replaced" section.
 - Run the application.py file using the following command to use the application-
   ```bash
   streamlit run application.py --client.showErrorDetails=false
-- To evaluate the two models, run all the cells present in the models_eval.ipynb file in a sequential manner.
+- To evaluate the two models, run all the cells present in the [models_eval.ipynb](https://github.com/14-825-GenAI-and-LLM/course-project-Srishti-Chouhan/blob/main/models_eval.ipynb) file in a sequential manner.
 
 
 ## Evaluation
