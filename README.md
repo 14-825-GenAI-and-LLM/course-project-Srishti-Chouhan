@@ -32,7 +32,7 @@ Create a conda environment with the following libraries-
 - langchain-google-vertexai 0.1.0
 - langchain 0.1.9
 
-The detailed list of all the libraries that have been installed while installing these main libraries are present in the requirements.txt file on our project GitHub.
+The detailed list of all the libraries that have been installed while installing these main libraries are present in the requirements.txt file.
 
 
 ## Variables to be updated/replaced:
